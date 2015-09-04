@@ -1,0 +1,10 @@
+Added Component: Designator=Mosfet-driver(SO-8_N)
+Added Pin To Net: NetName=VCC12 Pin=Mosfet-driver-1
+Added Pin To Net: NetName=MOS-0 Pin=Mosfet-driver-2
+Added Pin To Net: NetName=MOS-1 Pin=Mosfet-driver-3
+Added Pin To Net: NetName=GND Pin=Mosfet-driver-4
+Added Pin To Net: NetName=NetMosfet-driver_5 Pin=Mosfet-driver-5
+Added Pin To Net: NetName=GND Pin=Mosfet-driver-6
+Added Pin To Net: NetName=NetMosfet-driver_7 Pin=Mosfet-driver-7
+Added Pin To Net: NetName=VCC12 Pin=Mosfet-driver-8
+Added Member To Class: ClassName=PowerBoard Member=Component Mosfet-driver IR2101S

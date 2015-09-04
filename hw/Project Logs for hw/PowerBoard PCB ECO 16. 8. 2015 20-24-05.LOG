@@ -1,0 +1,14 @@
+Added Component: Designator=Q0(ONSC-DFN-5-488AA_V)
+Added Component: Designator=Q1(ONSC-DFN-5-488AA_V)
+Added Pin To Net: NetName=GND Pin=Q0-1
+Added Pin To Net: NetName=GND Pin=Q0-2
+Added Pin To Net: NetName=GND Pin=Q0-3
+Added Pin To Net: NetName=NetQ0_4 Pin=Q0-4
+Added Pin To Net: NetName=NetLD1_2 Pin=Q0-5
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-5
+Added Member To Class: ClassName=PowerBoard Member=Component Q0 NTMFS4833NT1G
+Added Member To Class: ClassName=PowerBoard Member=Component Q1 NTMFS4833NT1G

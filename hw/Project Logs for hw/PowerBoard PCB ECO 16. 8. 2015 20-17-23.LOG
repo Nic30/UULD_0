@@ -1,0 +1,279 @@
+Added Component: Designator=*(Speaker termina 4x DPS)
+Added Component: Designator=C1(EL SMD Case G D10x10.3 h10.2(1010))
+Added Component: Designator=C2(C0805(2013))
+Added Component: Designator=C3(EL SMD Case G D10x10.3 h10.2(1010))
+Added Component: Designator=C4(C0805(2013))
+Added Component: Designator=C5(C0805(2013))
+Added Component: Designator=C6(C0805(2013))
+Added Component: Designator=C7(EL SMD Case G D10x10.3 h10.2(1010))
+Added Component: Designator=C8(C0805(2013))
+Added Component: Designator=C9(C0805(2013))
+Added Component: Designator=C10(EL SMD Case G D10x10.3 h10.2(1010))
+Added Component: Designator=C11(EL SMD Case G D10x10.3 h10.2(1010))
+Added Component: Designator=C12(EL SMD Case G D10x10.3 h10.2(1010))
+Added Component: Designator=C13(C0805(2013))
+Added Component: Designator=D1(SMC)
+Added Component: Designator=D2(SOD323)
+Added Component: Designator=DC-DC-A(MP1584EN dc/dc 3A)
+Added Component: Designator=DC-DC-B(MP1584EN dc/dc 3A)
+Added Component: Designator=DC-DC-METER-A(SOT23-8)
+Added Component: Designator=DC-DC-METER-B(SOT23-8)
+Added Component: Designator=H1(J1x2)
+Added Component: Designator=H3.3V(J2x4)
+Added Component: Designator=H5V(J2x4)
+Added Component: Designator=H12V(J2x4)
+Added Component: Designator=H19.5V(J2x4)
+Added Component: Designator=H-I2C-1(J1x4)
+Added Component: Designator=H-I2C-2(J1x4)
+Added Component: Designator=H-I2C-3(J1x4)
+Added Component: Designator=H-ONE_WIRE-1(J1x3)
+Added Component: Designator=H-ONE_WIRE-2(J1x3)
+Added Component: Designator=H-SOLDER(J1x4)
+Added Component: Designator=H_DC-DC_pot_A(J1x3)
+Added Component: Designator=H_DC-DC_pot_B(J1x3)
+Added Component: Designator=LD1(Led 0805-Red)
+Added Component: Designator=LD_3.3V_OK(Led 0805-Green)
+Added Component: Designator=LD_5V_OK(Led 0805-Green)
+Added Component: Designator=LD_12V_OK(Led 0805-Green)
+Added Component: Designator=LD_19.5V_OK(Led 0805-Green)
+Added Component: Designator=MAIN_POWER_CON(Dell_centripin)
+Added Component: Designator=POT1(3590  potenciometer)
+Added Component: Designator=POT2(3590  potenciometer)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=R3(R0805)
+Added Component: Designator=R4(R0805)
+Added Component: Designator=R5(R0805)
+Added Component: Designator=R6(R0805)
+Added Component: Designator=R7(R0805)
+Added Component: Designator=R8(R0805)
+Added Component: Designator=R9(R0805)
+Added Component: Designator=R10(R0805)
+Added Component: Designator=R11(R0805)
+Added Component: Designator=R12(R0805)
+Added Component: Designator=SOLDERGUN(DIN-5)
+Added Component: Designator=U1(TO220-1A 2.54)
+Added Component: Designator=U2(MP04A_N)
+Added Component: Designator=U3(MP04A_N)
+Added Pin To Net: NetName=1WIRE Pin=H-ONE_WIRE-1-2
+Added Pin To Net: NetName=1WIRE Pin=H-ONE_WIRE-2-2
+Added Net: Name=1WIRE
+Added Pin To Net: NetName=DC-DC-LOAD-A Pin=*-0
+Added Pin To Net: NetName=DC-DC-LOAD-A Pin=DC-DC-METER-A-2
+Added Pin To Net: NetName=DC-DC-LOAD-A Pin=R4-2
+Added Net: Name=DC-DC-LOAD-A
+Added Pin To Net: NetName=DC-DC-LOAD-B Pin=*-2
+Added Pin To Net: NetName=DC-DC-LOAD-B Pin=DC-DC-METER-B-2
+Added Pin To Net: NetName=DC-DC-LOAD-B Pin=R11-2
+Added Net: Name=DC-DC-LOAD-B
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=DC-DC-A-1
+Added Pin To Net: NetName=GND Pin=DC-DC-A-1
+Added Pin To Net: NetName=GND Pin=DC-DC-A-3
+Added Pin To Net: NetName=GND Pin=DC-DC-A-3
+Added Pin To Net: NetName=GND Pin=DC-DC-B-1
+Added Pin To Net: NetName=GND Pin=DC-DC-B-1
+Added Pin To Net: NetName=GND Pin=DC-DC-B-3
+Added Pin To Net: NetName=GND Pin=DC-DC-B-3
+Added Pin To Net: NetName=GND Pin=DC-DC-METER-A-3
+Added Pin To Net: NetName=GND Pin=DC-DC-METER-A-7
+Added Pin To Net: NetName=GND Pin=DC-DC-METER-A-8
+Added Pin To Net: NetName=GND Pin=DC-DC-METER-B-3
+Added Pin To Net: NetName=GND Pin=DC-DC-METER-B-8
+Added Pin To Net: NetName=GND Pin=H3.3V-1
+Added Pin To Net: NetName=GND Pin=H3.3V-3
+Added Pin To Net: NetName=GND Pin=H3.3V-5
+Added Pin To Net: NetName=GND Pin=H3.3V-7
+Added Pin To Net: NetName=GND Pin=H5V-1
+Added Pin To Net: NetName=GND Pin=H5V-3
+Added Pin To Net: NetName=GND Pin=H5V-5
+Added Pin To Net: NetName=GND Pin=H5V-7
+Added Pin To Net: NetName=GND Pin=H12V-1
+Added Pin To Net: NetName=GND Pin=H12V-3
+Added Pin To Net: NetName=GND Pin=H12V-5
+Added Pin To Net: NetName=GND Pin=H12V-7
+Added Pin To Net: NetName=GND Pin=H19.5V-1
+Added Pin To Net: NetName=GND Pin=H19.5V-3
+Added Pin To Net: NetName=GND Pin=H19.5V-5
+Added Pin To Net: NetName=GND Pin=H19.5V-7
+Added Pin To Net: NetName=GND Pin=H-I2C-1-4
+Added Pin To Net: NetName=GND Pin=H-I2C-2-4
+Added Pin To Net: NetName=GND Pin=H-I2C-3-4
+Added Pin To Net: NetName=GND Pin=H-ONE_WIRE-1-3
+Added Pin To Net: NetName=GND Pin=H-ONE_WIRE-2-3
+Added Pin To Net: NetName=GND Pin=H-SOLDER-4
+Added Pin To Net: NetName=GND Pin=MAIN_POWER_CON-1
+Added Pin To Net: NetName=GND Pin=MAIN_POWER_CON-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=SOLDERGUN-2
+Added Pin To Net: NetName=GND Pin=SOLDERGUN-3
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=MOS-0 Pin=H-SOLDER-2
+Added Pin To Net: NetName=MOS-0 Pin=R5-2
+Added Net: Name=MOS-0
+Added Pin To Net: NetName=MOS-1 Pin=H-SOLDER-3
+Added Pin To Net: NetName=MOS-1 Pin=R6-2
+Added Net: Name=MOS-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=H1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetDC-DC-A_2 Pin=DC-DC-A-2
+Added Pin To Net: NetName=NetDC-DC-A_2 Pin=DC-DC-A-2
+Added Pin To Net: NetName=NetDC-DC-A_2 Pin=DC-DC-METER-A-1
+Added Pin To Net: NetName=NetDC-DC-A_2 Pin=R4-1
+Added Net: Name=NetDC-DC-A_2
+Added Pin To Net: NetName=NetDC-DC-B_2 Pin=DC-DC-B-2
+Added Pin To Net: NetName=NetDC-DC-B_2 Pin=DC-DC-B-2
+Added Pin To Net: NetName=NetDC-DC-B_2 Pin=DC-DC-METER-B-1
+Added Pin To Net: NetName=NetDC-DC-B_2 Pin=R11-1
+Added Net: Name=NetDC-DC-B_2
+Added Pin To Net: NetName=NetH_DC-DC_pot_A_1 Pin=H_DC-DC_pot_A-1
+Added Pin To Net: NetName=NetH_DC-DC_pot_A_1 Pin=POT1-3
+Added Net: Name=NetH_DC-DC_pot_A_1
+Added Pin To Net: NetName=NetH_DC-DC_pot_A_2 Pin=H_DC-DC_pot_A-2
+Added Pin To Net: NetName=NetH_DC-DC_pot_A_2 Pin=POT1-2
+Added Net: Name=NetH_DC-DC_pot_A_2
+Added Pin To Net: NetName=NetH_DC-DC_pot_A_3 Pin=H_DC-DC_pot_A-3
+Added Pin To Net: NetName=NetH_DC-DC_pot_A_3 Pin=POT1-1
+Added Net: Name=NetH_DC-DC_pot_A_3
+Added Pin To Net: NetName=NetH_DC-DC_pot_B_1 Pin=H_DC-DC_pot_B-1
+Added Pin To Net: NetName=NetH_DC-DC_pot_B_1 Pin=POT2-3
+Added Net: Name=NetH_DC-DC_pot_B_1
+Added Pin To Net: NetName=NetH_DC-DC_pot_B_2 Pin=H_DC-DC_pot_B-2
+Added Pin To Net: NetName=NetH_DC-DC_pot_B_2 Pin=POT2-2
+Added Net: Name=NetH_DC-DC_pot_B_2
+Added Pin To Net: NetName=NetH_DC-DC_pot_B_3 Pin=H_DC-DC_pot_B-3
+Added Pin To Net: NetName=NetH_DC-DC_pot_B_3 Pin=POT2-1
+Added Net: Name=NetH_DC-DC_pot_B_3
+Added Pin To Net: NetName=NetLD1_1 Pin=LD1-1
+Added Pin To Net: NetName=NetLD1_1 Pin=R1-1
+Added Net: Name=NetLD1_1
+Added Pin To Net: NetName=NetLD1_2 Pin=LD1-2
+Added Pin To Net: NetName=NetLD1_2 Pin=SOLDERGUN-4
+Added Net: Name=NetLD1_2
+Added Pin To Net: NetName=NetLD_3.3V_OK_2 Pin=LD_3.3V_OK-2
+Added Pin To Net: NetName=NetLD_3.3V_OK_2 Pin=R8-1
+Added Net: Name=NetLD_3.3V_OK_2
+Added Pin To Net: NetName=NetLD_5V_OK_2 Pin=LD_5V_OK-2
+Added Pin To Net: NetName=NetLD_5V_OK_2 Pin=R9-1
+Added Net: Name=NetLD_5V_OK_2
+Added Pin To Net: NetName=NetLD_12V_OK_2 Pin=LD_12V_OK-2
+Added Pin To Net: NetName=NetLD_12V_OK_2 Pin=R10-1
+Added Net: Name=NetLD_12V_OK_2
+Added Pin To Net: NetName=NetLD_19.5V_OK_2 Pin=LD_19.5V_OK-2
+Added Pin To Net: NetName=NetLD_19.5V_OK_2 Pin=R12-1
+Added Net: Name=NetLD_19.5V_OK_2
+Added Pin To Net: NetName=NetMosfet-driver_5 Pin=R7-2
+Added Net: Name=NetMosfet-driver_5
+Added Pin To Net: NetName=NetMosfet-driver_7 Pin=R3-2
+Added Net: Name=NetMosfet-driver_7
+Added Pin To Net: NetName=NetQ0_4 Pin=R3-1
+Added Net: Name=NetQ0_4
+Added Pin To Net: NetName=NetQ1_4 Pin=R7-1
+Added Net: Name=NetQ1_4
+Added Pin To Net: NetName=SDA Pin=DC-DC-METER-A-6
+Added Pin To Net: NetName=SDA Pin=DC-DC-METER-B-6
+Added Pin To Net: NetName=SDA Pin=H-I2C-1-1
+Added Pin To Net: NetName=SDA Pin=H-I2C-2-1
+Added Pin To Net: NetName=SDA Pin=H-I2C-3-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=SLC Pin=DC-DC-METER-A-5
+Added Pin To Net: NetName=SLC Pin=DC-DC-METER-B-5
+Added Pin To Net: NetName=SLC Pin=H-I2C-1-2
+Added Pin To Net: NetName=SLC Pin=H-I2C-2-2
+Added Pin To Net: NetName=SLC Pin=H-I2C-3-2
+Added Net: Name=SLC
+Added Pin To Net: NetName=TEMP_ADC Pin=D2-2
+Added Pin To Net: NetName=TEMP_ADC Pin=H-SOLDER-1
+Added Pin To Net: NetName=TEMP_ADC Pin=R2-1
+Added Pin To Net: NetName=TEMP_ADC Pin=SOLDERGUN-1
+Added Net: Name=TEMP_ADC
+Added Pin To Net: NetName=VCC3.3 Pin=C1-1
+Added Pin To Net: NetName=VCC3.3 Pin=C2-1
+Added Pin To Net: NetName=VCC3.3 Pin=C3-1
+Added Pin To Net: NetName=VCC3.3 Pin=C4-1
+Added Pin To Net: NetName=VCC3.3 Pin=C5-1
+Added Pin To Net: NetName=VCC3.3 Pin=C7-1
+Added Pin To Net: NetName=VCC3.3 Pin=DC-DC-METER-A-4
+Added Pin To Net: NetName=VCC3.3 Pin=DC-DC-METER-B-4
+Added Pin To Net: NetName=VCC3.3 Pin=DC-DC-METER-B-7
+Added Pin To Net: NetName=VCC3.3 Pin=H3.3V-2
+Added Pin To Net: NetName=VCC3.3 Pin=H3.3V-4
+Added Pin To Net: NetName=VCC3.3 Pin=H3.3V-6
+Added Pin To Net: NetName=VCC3.3 Pin=H3.3V-8
+Added Pin To Net: NetName=VCC3.3 Pin=H-I2C-1-3
+Added Pin To Net: NetName=VCC3.3 Pin=H-I2C-2-3
+Added Pin To Net: NetName=VCC3.3 Pin=H-I2C-3-3
+Added Pin To Net: NetName=VCC3.3 Pin=H-ONE_WIRE-1-1
+Added Pin To Net: NetName=VCC3.3 Pin=H-ONE_WIRE-2-1
+Added Pin To Net: NetName=VCC3.3 Pin=LD_3.3V_OK-1
+Added Pin To Net: NetName=VCC3.3 Pin=R2-2
+Added Pin To Net: NetName=VCC3.3 Pin=U2-2
+Added Pin To Net: NetName=VCC3.3 Pin=U2-4
+Added Net: Name=VCC3.3
+Added Pin To Net: NetName=VCC5 Pin=C8-1
+Added Pin To Net: NetName=VCC5 Pin=C10-1
+Added Pin To Net: NetName=VCC5 Pin=H5V-2
+Added Pin To Net: NetName=VCC5 Pin=H5V-4
+Added Pin To Net: NetName=VCC5 Pin=H5V-6
+Added Pin To Net: NetName=VCC5 Pin=H5V-8
+Added Pin To Net: NetName=VCC5 Pin=LD_5V_OK-1
+Added Pin To Net: NetName=VCC5 Pin=U3-2
+Added Pin To Net: NetName=VCC5 Pin=U3-4
+Added Net: Name=VCC5
+Added Pin To Net: NetName=VCC12 Pin=C13-1
+Added Pin To Net: NetName=VCC12 Pin=H12V-2
+Added Pin To Net: NetName=VCC12 Pin=H12V-4
+Added Pin To Net: NetName=VCC12 Pin=H12V-6
+Added Pin To Net: NetName=VCC12 Pin=H12V-8
+Added Pin To Net: NetName=VCC12 Pin=LD_12V_OK-1
+Added Pin To Net: NetName=VCC12 Pin=U1-3
+Added Net: Name=VCC12
+Added Pin To Net: NetName=VCC19.5 Pin=C6-1
+Added Pin To Net: NetName=VCC19.5 Pin=C9-1
+Added Pin To Net: NetName=VCC19.5 Pin=C11-1
+Added Pin To Net: NetName=VCC19.5 Pin=C12-1
+Added Pin To Net: NetName=VCC19.5 Pin=D1-2
+Added Pin To Net: NetName=VCC19.5 Pin=DC-DC-A-0
+Added Pin To Net: NetName=VCC19.5 Pin=DC-DC-A-0
+Added Pin To Net: NetName=VCC19.5 Pin=DC-DC-B-0
+Added Pin To Net: NetName=VCC19.5 Pin=DC-DC-B-0
+Added Pin To Net: NetName=VCC19.5 Pin=H1-2
+Added Pin To Net: NetName=VCC19.5 Pin=H19.5V-2
+Added Pin To Net: NetName=VCC19.5 Pin=H19.5V-4
+Added Pin To Net: NetName=VCC19.5 Pin=H19.5V-6
+Added Pin To Net: NetName=VCC19.5 Pin=H19.5V-8
+Added Pin To Net: NetName=VCC19.5 Pin=LD_19.5V_OK-1
+Added Pin To Net: NetName=VCC19.5 Pin=MAIN_POWER_CON-3
+Added Pin To Net: NetName=VCC19.5 Pin=MAIN_POWER_CON-3
+Added Pin To Net: NetName=VCC19.5 Pin=R1-2
+Added Pin To Net: NetName=VCC19.5 Pin=SOLDERGUN-5
+Added Pin To Net: NetName=VCC19.5 Pin=U1-1
+Added Pin To Net: NetName=VCC19.5 Pin=U2-3
+Added Pin To Net: NetName=VCC19.5 Pin=U3-3
+Added Net: Name=VCC19.5
+Added Class: Name=PowerBoard
+Added Room: Name=PowerBoard

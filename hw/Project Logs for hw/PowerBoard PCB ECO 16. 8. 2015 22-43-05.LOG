@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOS-0 Pin=H-SOLDER-2
+Removed Pin From Net: NetName=MOS-1 Pin=H-SOLDER-3
+Added Pin To Net: NetName=MOS-1 Pin=H-SOLDER-2
+Added Pin To Net: NetName=MOS-0 Pin=H-SOLDER-3
