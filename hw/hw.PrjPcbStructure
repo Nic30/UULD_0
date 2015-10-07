@@ -1,1 +1,4 @@
 Record=TopLevelDocument|FileName=PowerBoard.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=PowerBoard.SchDoc|Designator=DC/DC-A|SchDesignator=DC/DC-A|FileName=universal_DC-DC.SchDoc|SymbolType=Normal|RawFileName=universal_DC-DC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=PowerBoard.SchDoc|Designator=DC/DC-B|SchDesignator=DC/DC-B|FileName=universal_DC-DC.SchDoc|SymbolType=Normal|RawFileName=universal_DC-DC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=PowerBoard.SchDoc|Designator=SMB_CHARGER|SchDesignator=SMB_CHARGER|FileName=TLC4100_SMB_charger.SchDoc|SymbolType=Normal|RawFileName=TLC4100_SMB_charger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
